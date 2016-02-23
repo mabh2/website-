@@ -1,0 +1,60 @@
+body {
+    background-image: url("david/background.jpg");
+    font-family: Kannada MN;
+    color: white;
+    text-align: center; 
+
+}
+
+h1 {
+	font-size: 45px;
+}
+
+
+#menu{
+	width: 550px;
+	height:35px;
+	font-size: 20px;
+	font-family: Kannada MN;
+	font-weight:bold;
+	text-align; center;
+	background-color: grey
+	border-radius: 8px
+}
+
+a{
+	color: lightblue; 
+	padding: 30px; 
+}
+
+#menu ul{
+	height:auto;
+	padding:10px 0px;
+	margin:0px;
+	text-align: left;
+}
+
+#menu li{
+	display:inline;
+
+	padding:10px;
+}
+
+#menu a{
+	text-decoration:none;
+	color: red;
+	padding: 10px 10px 10px;
+	font-size: 22px; 
+	font-weight: bold;  
+}
+
+#section
+ {
+	opacity: 0.7;
+	width: 600px; 
+	background-color:black; 
+	color:white; 
+	margin-top: 25px; 
+
+
+

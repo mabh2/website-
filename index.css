@@ -1,0 +1,102 @@
+body {
+    background-image: url("david/background.jpg");
+    font-family: Kannada MN;
+    color: white;
+    text-align: center; 
+
+}
+
+h1 {
+	font-size: 45px;
+}
+
+h2 {
+	font-size: 30px;
+	font-style: italic;
+}
+
+p {
+	font-size: 22px
+}
+
+img {
+	padding-top: 180px; 
+	padding-left: 870px;
+	opacity: 0.80; 
+
+
+}
+border-style: solid;
+	border-width: 12px; 
+	border-color: white; 
+
+
+
+#menu{
+	width: 550px;
+	height:35px;
+	font-size: 20px;
+	font-family: Kannada MN;
+	font-weight:bold;
+	text-align; center;
+	background-color: grey
+	border-radius: 8px
+}
+
+#menu ul{
+	height:auto;
+	padding:10px 0px;
+	margin:0px;
+	text-align: left;
+}
+
+#menu li{
+	display:inline;
+
+	padding:10px;
+}
+
+#menu a{
+	text-decoration:none;
+	color: red;
+	padding: 10px 10px 10px;
+	font-size: 22px; 
+	font-weight: bold;  
+}
+
+#section
+ {
+	opacity: 0.7;
+	width: 600px; 
+	background-color:black; 
+	color:white; 
+	margin-top: -270px; 
+	margin-left: 100px;
+	padding: 35px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
